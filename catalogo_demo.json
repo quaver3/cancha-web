@@ -1,0 +1,737 @@
+[
+  {
+    "name": "DAZN Baloncesto 720p *",
+    "group": "BALONCESTO",
+    "quality": "720p"
+  },
+  {
+    "name": "DAZN Baloncesto 720p **",
+    "group": "BALONCESTO",
+    "quality": "720p"
+  },
+  {
+    "name": "DAZN Baloncesto 1080p **",
+    "group": "BALONCESTO",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN Baloncesto 2 720p *",
+    "group": "BALONCESTO",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Baloncesto 1080p *",
+    "group": "BALONCESTO",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Baloncesto 1080p **",
+    "group": "BALONCESTO",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Baloncesto 2 1080p *",
+    "group": "BALONCESTO",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Baloncesto 2 1080p **",
+    "group": "BALONCESTO",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Baloncesto 3 1080p **",
+    "group": "BALONCESTO",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN 1 720p *",
+    "group": "DAZN",
+    "quality": "720p"
+  },
+  {
+    "name": "DAZN 1 720p **",
+    "group": "DAZN",
+    "quality": "720p"
+  },
+  {
+    "name": "DAZN 1 1080p *",
+    "group": "DAZN",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN 1 1080p **",
+    "group": "DAZN",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN 2 720p **",
+    "group": "DAZN",
+    "quality": "720p"
+  },
+  {
+    "name": "DAZN 2 1080p *",
+    "group": "DAZN",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN 2 1080p **",
+    "group": "DAZN",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN 3 1080p **",
+    "group": "DAZN",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN 4 1080p *",
+    "group": "DAZN",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN 4 **",
+    "group": "DAZN",
+    "quality": ""
+  },
+  {
+    "name": "Eurosport 1 720p **",
+    "group": "EUROSPORT",
+    "quality": "720p"
+  },
+  {
+    "name": "Eurosport 1 1080p *",
+    "group": "EUROSPORT",
+    "quality": "1080p"
+  },
+  {
+    "name": "Eurosport 1 1080p **",
+    "group": "EUROSPORT",
+    "quality": "1080p"
+  },
+  {
+    "name": "Eurosport 2 720p **",
+    "group": "EUROSPORT",
+    "quality": "720p"
+  },
+  {
+    "name": "Eurosport 2 1080p *",
+    "group": "EUROSPORT",
+    "quality": "1080p"
+  },
+  {
+    "name": "Eurosport 2 1080p **",
+    "group": "EUROSPORT",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN F1 720p *",
+    "group": "FORMULA 1",
+    "quality": "720p"
+  },
+  {
+    "name": "DAZN F1 720p **",
+    "group": "FORMULA 1",
+    "quality": "720p"
+  },
+  {
+    "name": "DAZN F1 720p **",
+    "group": "FORMULA 1",
+    "quality": "720p"
+  },
+  {
+    "name": "DAZN F1 1080p *",
+    "group": "FORMULA 1",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN F1 1080p *",
+    "group": "FORMULA 1",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN F1 1080p **",
+    "group": "FORMULA 1",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN F1 1080p **",
+    "group": "FORMULA 1",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN F1 1080p **",
+    "group": "FORMULA 1",
+    "quality": "1080p"
+  },
+  {
+    "name": "LaLiga TV Hypermotion 720p *",
+    "group": "HYPERMOTION",
+    "quality": "720p"
+  },
+  {
+    "name": "LaLiga TV Hypermotion 720p **",
+    "group": "HYPERMOTION",
+    "quality": "720p"
+  },
+  {
+    "name": "LaLiga TV Hypermotion 1080p *",
+    "group": "HYPERMOTION",
+    "quality": "1080p"
+  },
+  {
+    "name": "LaLiga TV Hypermotion 1080p **",
+    "group": "HYPERMOTION",
+    "quality": "1080p"
+  },
+  {
+    "name": "LaLiga TV Hypermotion 2 720p *",
+    "group": "HYPERMOTION",
+    "quality": "720p"
+  },
+  {
+    "name": "LaLiga TV Hypermotion 2 1080p *",
+    "group": "HYPERMOTION",
+    "quality": "1080p"
+  },
+  {
+    "name": "LaLiga TV Hypermotion 2 1080p **",
+    "group": "HYPERMOTION",
+    "quality": "1080p"
+  },
+  {
+    "name": "LaLiga TV Hypermotion 3 1080p **",
+    "group": "HYPERMOTION",
+    "quality": "1080p"
+  },
+  {
+    "name": "LaLiga TV Hypermotion 3 *",
+    "group": "HYPERMOTION",
+    "quality": ""
+  },
+  {
+    "name": "LaLiga TV Hypermotion 10 *",
+    "group": "HYPERMOTION",
+    "quality": ""
+  },
+  {
+    "name": "DAZN LaLiga 720p *",
+    "group": "LA LIGA",
+    "quality": "720p"
+  },
+  {
+    "name": "DAZN LaLiga 1080p *",
+    "group": "LA LIGA",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN LaLiga 1080p **",
+    "group": "LA LIGA",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN LaLiga 1080p **",
+    "group": "LA LIGA",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN LaLiga 2 720p *",
+    "group": "LA LIGA",
+    "quality": "720p"
+  },
+  {
+    "name": "DAZN LaLiga 2 720p **",
+    "group": "LA LIGA",
+    "quality": "720p"
+  },
+  {
+    "name": "DAZN LaLiga 2 1080p **",
+    "group": "LA LIGA",
+    "quality": "1080p"
+  },
+  {
+    "name": "DAZN LaLiga **",
+    "group": "LA LIGA",
+    "quality": ""
+  },
+  {
+    "name": "M+ LaLiga 720p *",
+    "group": "LA LIGA",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ LaLiga 720p *",
+    "group": "LA LIGA",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ LaLiga 720p **",
+    "group": "LA LIGA",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ LaLiga 1080p *",
+    "group": "LA LIGA",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ LaLiga 1080p **",
+    "group": "LA LIGA",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ LaLiga 1080p **",
+    "group": "LA LIGA",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ LaLiga 2 720p **",
+    "group": "LA LIGA",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ LaLiga 2 1080p **",
+    "group": "LA LIGA",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ LaLiga 2 *",
+    "group": "LA LIGA",
+    "quality": ""
+  },
+  {
+    "name": "M+ LaLiga 3 720p **",
+    "group": "LA LIGA",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ LaLiga 3 1080p **",
+    "group": "LA LIGA",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 720p *",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Liga de Campeones 720p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Liga de Campeones 1080p *",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 1080p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 1080p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 2 720p *",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Liga de Campeones 2 1080p *",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 3 720p *",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Liga de Campeones 3 720p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Liga de Campeones 3 1080p *",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 3 1080p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 3 1080p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 4 720p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Liga de Campeones 4 1080p *",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 4 1080p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 4 1080p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 5 1080p *",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 5 1080p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 5 1080p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 6 720p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Liga de Campeones 6 1080p *",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 6 1080p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 6 1080p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 7 1080p *",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Liga de Campeones 7 1080p **",
+    "group": "LIGA DE CAMPEONES",
+    "quality": "1080p"
+  },
+  {
+    "name": "MOVISTAR PLUS 1080p *",
+    "group": "MOVISTAR",
+    "quality": "1080p"
+  },
+  {
+    "name": "MOVISTAR PLUS 1080p **",
+    "group": "MOVISTAR",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Deportes 720p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Deportes 720p **",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Deportes 1080p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Deportes 1080p **",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Deportes 2 720p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Deportes 2 720p **",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Deportes 2 1080p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Deportes 2 1080p **",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Deportes 2 1080p **",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Deportes 3 720p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Deportes 3 720p **",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Deportes 3 1080p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Deportes 3 1080p **",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Deportes 5 1080p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Deportes 6 1080p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Golf 720p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Golf 1080p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Golf 1080p **",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Golf 2 1080p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Golf 2 1080p **",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ Vamos 720p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Vamos 720p **",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ Vamos 1080p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ VAMOS 2 720p *",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "M+ VAMOS 2 1080p **",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "M+ VAMOS 3 720p **",
+    "group": "MOVISTAR DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "RFEF TV 1080p *",
+    "group": "RFEF TV",
+    "quality": "1080p"
+  },
+  {
+    "name": "RFEF TV 1080p *",
+    "group": "RFEF TV",
+    "quality": "1080p"
+  },
+  {
+    "name": "CUATRO 1080p **",
+    "group": "TDT",
+    "quality": "1080p"
+  },
+  {
+    "name": "La 1 TVE 720p *",
+    "group": "TDT",
+    "quality": "720p"
+  },
+  {
+    "name": "La 1 TVE 720p **",
+    "group": "TDT",
+    "quality": "720p"
+  },
+  {
+    "name": "La 1 TVE 4K **",
+    "group": "TDT",
+    "quality": "4K"
+  },
+  {
+    "name": "La 2 TVE 1080p *",
+    "group": "TDT",
+    "quality": "1080p"
+  },
+  {
+    "name": "La 2 TVE 1080p **",
+    "group": "TDT",
+    "quality": "1080p"
+  },
+  {
+    "name": "Telecinco 1080p **",
+    "group": "TDT",
+    "quality": "1080p"
+  },
+  {
+    "name": "ALTITUDE SPORTS 1080p *",
+    "group": "AIRE LIBRE",
+    "quality": "1080p"
+  },
+  {
+    "name": "ALTITUDE SPORTS *",
+    "group": "AIRE LIBRE",
+    "quality": ""
+  },
+  {
+    "name": "Bein Sports 3 TR 720p *",
+    "group": "DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "Bein Sports TR 720p *",
+    "group": "DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "RALLY TV 1080p *",
+    "group": "DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "RALLY TV **",
+    "group": "DEPORTES",
+    "quality": ""
+  },
+  {
+    "name": "Real Madrid TV 1080p *",
+    "group": "DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "Real Madrid TV 1080p *",
+    "group": "DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "Real Madrid TV 1080p **",
+    "group": "DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "Teledeporte 720p **",
+    "group": "DEPORTES",
+    "quality": "720p"
+  },
+  {
+    "name": "Teledeporte 1080p *",
+    "group": "DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "Teledeporte 1080p **",
+    "group": "DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "Teledeporte 1080p **",
+    "group": "DEPORTES",
+    "quality": "1080p"
+  },
+  {
+    "name": "Dazn MotoGP 1080p *",
+    "group": "MOTOGP",
+    "quality": "1080p"
+  },
+  {
+    "name": "Dazn MotoGP 1080p **",
+    "group": "MOTOGP",
+    "quality": "1080p"
+  },
+  {
+    "name": "Dazn MotoGP 1080p **",
+    "group": "MOTOGP",
+    "quality": "1080p"
+  },
+  {
+    "name": "NBA ESPN 720p *",
+    "group": "NBA",
+    "quality": "720p"
+  },
+  {
+    "name": "NBA League Pass 1080p *",
+    "group": "NBA",
+    "quality": "1080p"
+  },
+  {
+    "name": "Sky Sport Tennis 1080p *",
+    "group": "TENNIS",
+    "quality": "1080p"
+  },
+  {
+    "name": "Sky Sport Tennis 1080p **",
+    "group": "TENNIS",
+    "quality": "1080p"
+  },
+  {
+    "name": "Tennis Channel 1080p *",
+    "group": "TENNIS",
+    "quality": "1080p"
+  },
+  {
+    "name": "Tennis Channel 1080p **",
+    "group": "TENNIS",
+    "quality": "1080p"
+  },
+  {
+    "name": "Onetoro TV 1080p *",
+    "group": "TOROS",
+    "quality": "1080p"
+  }
+]
